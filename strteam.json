@@ -1,0 +1,12 @@
+stream: {
+  'id': 17374,
+  'encryptedId': '3DYM8HNlPNg6u9AEHdd1Hw%3d%3d',
+  'streamName': 'AutomationEmail',
+  'moduleId': 6, MAILBOX_CONNECTOR = 6
+  'type': 10,
+  'streamProviderId': 'automationqa_wisp@wispp.com', email
+  'statusId': 1, open
+  'subStreams': [
+
+  ]
+}

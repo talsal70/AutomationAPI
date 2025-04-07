@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "qa_automation": {
+      "api_url": "https://api.wispp.com",
+      "bearer_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI4YjJjMjUwN2VjYzgxMjU4Njc4MjI3YjdiZDk0ZDZmOCIsImNsaWVudF9zZWNyZXQiOiJjMWZhNjUwOTZlNDBiZTc5ODk4MjNhMWNmODNkNDcxZWZjOGEzMjk0YzMyNGE1ZmZhMTYyYTg3MzZjMGMzYWU4IiwibmJmIjoxNzQzOTE5MDYyLCJleHAiOjE3NjI5NTc3NzEsImlhdCI6MTc0MzkxOTA2Mn0._MBaCLNfMDg_loXiD8Qe4-3Mvt3KI3Q8K8dl3BOyI_w"
+    },
+    "wisp": {
+      "api_url": "https://api.wispp.com",
+      "bearer_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiIwZTJlNDdlNWZlYTQwYTViZjVmMDE0ZDljNmFiZWNiNSIsImNsaWVudF9zZWNyZXQiOiI3MTc3OWQyODU2YmE3ZjdjY2E2NzlkOTdiZGFkODg2YjRkZTdlYmJlYzIzYmQxMWZhODJiMDZlMjZiNjMwYmFlIiwibmJmIjoxNzQzNDIwNTYwLCJleHAiOjE3NDM0MjQxNjAsImlhdCI6MTc0MzQyMDU2MH0.K7R23B4CRWLcvUGWOUr1QUSMoP9kB3sHIBFpZcU7MCs"
+    },
+        "qaqa_commboxio": {
+      "api_url": "https://api.commbox.io",
+      "bearer_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI5Y2FiN2NiZWYxZmRjZTU1ZTkyNjlmOGU0ZDE0NzYxNSIsImNsaWVudF9zZWNyZXQiOiJiZmM2OTcxYjEzNWJkN2RhZTBlZTYzOWJhNDQ0NWM5NzA2NTEwMGEyMTE5YmFhODFlNmM2ZmZjNjk5N2RkY2I0IiwibmJmIjoxNzQzOTQ5ODE4LCJleHAiOjE3NDM5NTM0MTgsImlhdCI6MTc0Mzk0OTgxOH0.S0nBvSnz8P1ALXKkPlsXOiQ_PjqIJFwHtNdXQt7HdkM"
+    }
+  }
+}
