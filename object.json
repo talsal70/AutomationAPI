@@ -1,0 +1,111 @@
+object: [
+  {
+    'objectId': 3546987534689463,
+    'streamId': 17374,
+    'subStreamId': 0,
+    'streamProviderId': '8f5f1dd4668f4d2abc80f785d3c58079automationqa_wisp@wispp.com',
+    'streamProviderType': 4,Mail = 4
+    'user_identity': 559419,
+    'firstName': None,
+    'lastName': None,
+    'userStreamProviderId': 'muoz@muoz.com',
+    'userStreamProviderType': 4,
+    'content': '{"subject":"fmn","languages":[{"Item1":"sv","Item2":0}],"first_message_sending_failure":true}',
+    'message': 'epxnf',
+    'createdTime': '2023-05-24T14:10:39',
+    'updatedTime': '2023-05-24T14:10:39',
+    'closedTime': None,
+    'firstResponseTime': None,
+    'lastResponseTime': None,
+    'statusId': 8,
+    'assignedManagerId': 0,
+    'lastAssignedManagerId': 0,
+    'type': 5,
+    'user': {
+      'id': 5385016,
+      'uniqueId': '',
+      'phone1': '9725066655270',
+      'phone2': '',
+      'email': 'fod@fod.com',
+      'firstName': 'mab',
+      'lastName': 'fouebmj',
+      'gender': '',
+      'numberIdentities': 1,
+      'locale': '',
+      'birthday': '',
+      'remarks': 'ur',
+      'content': '{}'
+    },
+    'isManager': False,
+    'childs': [
+
+    ],
+    'activityLogs': [
+
+    ],
+    'tagsObjectId': [
+
+    ],
+    'customerParticipants': None
+  }
+]
+
+
+
+C:\Users\tal.sa\AppData\Local\Programs\Python\Python313\python.exe C:\Users\tal.sa\PycharmProjects\PythonProject\main.py
+Trying to open: config_qa_automation.json
+stream:{'id': 14187, 'encryptedId': 'ySM8PSzCxM0ZyUv9nycnLQ%3d%3d', 'streamName': 'AutomationChat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': [{'id': 1310, 'name': 'test 1', 'uniqueName': 'test 1'}, {'id': 1311, 'name': 'test 2', 'uniqueName': 'test 2'}]}
+stream:{'id': 14212, 'encryptedId': 'X42CpEHM6rndlJuP2L96Cw%3d%3d', 'streamName': 'AutomationRules', 'moduleId': 34, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 14216, 'encryptedId': 'plKqwbqYND1l2M_bKgywGtQ%3d%3d', 'streamName': 'AutomationTwitter', 'moduleId': 8, 'type': 6, 'streamProviderId': '1464978008515788804', 'statusId': 1, 'subStreams': []}
+stream:{'id': 14217, 'encryptedId': 'NSQzFmML_b0J3N5qSsPmsYw%3d%3d', 'streamName': 'Forms', 'moduleId': 28, 'type': 22, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 14218, 'encryptedId': 'NofXpCcVWMzrxNwTQyokgw%3d%3d', 'streamName': 'JustChat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 14224, 'encryptedId': 'yRlp8pXP1oa2rTYjdn_byaQ%3d%3d', 'streamName': 'RandomRule', 'moduleId': 34, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 14381, 'encryptedId': '2CtIFAUiK0ZB9ipIzUjBrA%3d%3d', 'streamName': 'AutomationInstagram', 'moduleId': 20, 'type': 19, 'streamProviderId': '17841450722036896', 'statusId': 1, 'subStreams': []}
+stream:{'id': 14540, 'encryptedId': 'WRtB_b6_bpmZ4_fNBU1PjL25w%3d%3d', 'streamName': 'WA', 'moduleId': 13, 'type': 14, 'streamProviderId': '972546725036', 'statusId': 1, 'subStreams': []}
+stream:{'id': 14792, 'encryptedId': 'Br8xpir_fqQsf5rB0ijsOQw%3d%3d', 'streamName': 'Working hours', 'moduleId': 36, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 15138, 'encryptedId': 'wg2pRrAOGrsq9TTDY3IYQA%3d%3d', 'streamName': 'AutomationVideoChat', 'moduleId': 26, 'type': 20, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 15536, 'encryptedId': 'DcCoPF5rEjxV5uHZyd5pkQ%3d%3d', 'streamName': 'RED', 'moduleId': 43, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 15539, 'encryptedId': 'Yzh_fhx46Kw_frCcl_fO2Bkaw%3d%3d', 'streamName': 'RANDOM', 'moduleId': 43, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 15675, 'encryptedId': '_bDtotXKpHYO2_bFUTSMl17w%3d%3d', 'streamName': 'Automation VoiceChat', 'moduleId': 27, 'type': 21, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 16090, 'encryptedId': 'BqUvu1QRWIsS8tBslUUrwg%3d%3d', 'streamName': 'Methodologies', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 16658, 'encryptedId': 'r_bZGc4Yg07OytuZj0Lg1dQ%3d%3d', 'streamName': 'AutomationForNadav', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': [{'id': 1312, 'name': 'sub 1', 'uniqueName': 'sub 1'}, {'id': 1313, 'name': 'sub 2', 'uniqueName': 'sub 2'}]}
+stream:{'id': 17109, 'encryptedId': 'R5kAX8vB4YlHnUooaN_fZjw%3d%3d', 'streamName': 'AutomationChat', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17110, 'encryptedId': 'Sm7yWrLwf0xojLyzWf1Y1g%3d%3d', 'streamName': 'AutomationMail', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17111, 'encryptedId': 'LP8abIAkCJNk8ycZ_br6_bgw%3d%3d', 'streamName': 'AutomationMessenger', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17112, 'encryptedId': 'oJ6QrfEmiOtB2CqfmTzt8Q%3d%3d', 'streamName': 'WA', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17349, 'encryptedId': 'ABJuI7NeG2SvmPMMAMXrdA%3d%3d', 'streamName': 'AutomationChat 14187', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17350, 'encryptedId': 'cVYSgJvD_fTiWVIEjaAK8kQ%3d%3d', 'streamName': 'AutomationMail 14214', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17351, 'encryptedId': 'vXNJ5OqSCuWTe3nbOhhEEw%3d%3d', 'streamName': 'AutomationMessenger 14215', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17352, 'encryptedId': 'hSiSepj6k4ZBqjjJdxnUYw%3d%3d', 'streamName': 'WA 14540', 'moduleId': 22, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17373, 'encryptedId': 'tLkavpKG_bbIL2TKapP5cKQ%3d%3d', 'streamName': 'AutomationMail2', 'moduleId': 6, 'type': 10, 'streamProviderId': 'AutomationMail2@wispp.com', 'statusId': 1, 'subStreams': []}
+stream:{'id': 17374, 'encryptedId': '3DYM8HNlPNg6u9AEHdd1Hw%3d%3d', 'streamName': 'AutomationEmail', 'moduleId': 6, 'type': 10, 'streamProviderId': 'automationqa_wisp@wispp.com', 'statusId': 1, 'subStreams': []}
+stream:{'id': 17439, 'encryptedId': 'LZfvP82qaXJ4l51D28Diqg%3d%3d', 'streamName': 'bot', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17440, 'encryptedId': 'gtgkREjFYvQTfL1WTb4Zkw%3d%3d', 'streamName': 'Sasha_Chat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17441, 'encryptedId': 'z8Xi0XUgCA7O87OFfRwGog%3d%3d', 'streamName': 'MendyDontToch', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17442, 'encryptedId': 'Px0Ge4NQh_fSR0yIpfJY8MQ%3d%3d', 'streamName': 'David Automation', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17444, 'encryptedId': '54hHMuZPEvJN4SAFMKO4yA%3d%3d', 'streamName': 'Sasha_Test_Navigator', 'moduleId': 25, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17445, 'encryptedId': 'PLAM57wwlbFynKBMdAAPcg%3d%3d', 'streamName': 'Sasha_ContactUs', 'moduleId': 21, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17452, 'encryptedId': 'FlKk9NeXmsEU4ggWPHJikQ%3d%3d', 'streamName': 'TEST DATA FOR AUTOMATION DONT TOUCH', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17477, 'encryptedId': 'TVdMXnhi1h7tsD2wjUfzuA%3d%3d', 'streamName': 'BotsTeamChat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': [{'id': 1385, 'name': 'Sub1', 'uniqueName': 'Sub1'}, {'id': 1393, 'name': 'Sub2', 'uniqueName': 'Sub2'}]}
+stream:{'id': 17479, 'encryptedId': '6g6kbV_b6bgwQ2rYDsmYf7w%3d%3d', 'streamName': 'ContactUsAutomation', 'moduleId': 21, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17486, 'encryptedId': 'uI_bSqBra_fV5_b8h8CwXV4sw%3d%3d', 'streamName': 'Sasha_Navigator_Script', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17493, 'encryptedId': 'meEuqYtQhZqS7jMgE_bPbeg%3d%3d', 'streamName': 'Navigator_Chat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17494, 'encryptedId': 'TPoKfmhx9OUICnsbyadtxQ%3d%3d', 'streamName': 'Channel2', 'moduleId': 25, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17533, 'encryptedId': '8VFVMJy89iyk7BolVwpVBA%3d%3d', 'streamName': 'Intents_Chat', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17537, 'encryptedId': 'At9kX2XVXZkeqsAxe5TKOw%3d%3d', 'streamName': 'SMS Auto QA Wispp', 'moduleId': 14, 'type': 15, 'streamProviderId': '972508328862', 'statusId': 1, 'subStreams': []}
+stream:{'id': 17585, 'encryptedId': 'LUBcUZU7JJ_bsIY5ptUuqDw%3d%3d', 'streamName': 'Facbook Test Page', 'moduleId': 3, 'type': 3, 'streamProviderId': '140290632493282', 'statusId': 1, 'subStreams': [{'id': 33017, 'name': 'Timeline', 'uniqueName': 'timeline'}, {'id': 33018, 'name': 'Posts', 'uniqueName': 'posts'}, {'id': 33019, 'name': 'Mentions', 'uniqueName': 'mentions'}]}
+stream:{'id': 17594, 'encryptedId': 'tNWd_beSDRpC9hIlZi2ub7w%3d%3d', 'streamName': 'Champions bug', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 17595, 'encryptedId': 'f2ZBk7M3D_bYCRT9w87efNw%3d%3d', 'streamName': 'Instagram Test Account', 'moduleId': 20, 'type': 19, 'streamProviderId': '17841461297124650', 'statusId': 1, 'subStreams': [{'id': 33023, 'name': 'Posts', 'uniqueName': 'posts'}, {'id': 33024, 'name': 'Mentions', 'uniqueName': 'mentions'}, {'id': 33025, 'name': 'Messages', 'uniqueName': 'messages'}]}
+stream:{'id': 17614, 'encryptedId': 'LKe1P3QW_f6Q_bRgnwmpRx_bQ%3d%3d', 'streamName': 'Facebook real page', 'moduleId': 3, 'type': 3, 'streamProviderId': '128630340337725', 'statusId': 1, 'subStreams': [{'id': 33039, 'name': 'Timeline', 'uniqueName': 'timeline'}, {'id': 33040, 'name': 'Posts', 'uniqueName': 'posts'}, {'id': 33041, 'name': 'Mentions', 'uniqueName': 'mentions'}]}
+stream:{'id': 17669, 'encryptedId': 'W4UwUsrpZ_fml7cHfxnmjMg%3d%3d', 'streamName': 'Automation_Chat_2', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': [{'id': 33051, 'name': 'test 1', 'uniqueName': 'test 1'}, {'id': 33052, 'name': 'test 2', 'uniqueName': 'test 2'}]}
+stream:{'id': 17680, 'encryptedId': 'l55KEns6SQlamWYvZskbpQ%3d%3d', 'streamName': 'Messenger Test Page', 'moduleId': 38, 'type': 24, 'streamProviderId': '124628950741754', 'statusId': 1, 'subStreams': []}
+stream:{'id': 18133, 'encryptedId': 'jgYbxcfRLxjfw_bBB8aJCDA%3d%3d', 'streamName': 'Shir commbox page', 'moduleId': 3, 'type': 3, 'streamProviderId': '101236608311517', 'statusId': 1, 'subStreams': [{'id': 33149, 'name': 'Timeline', 'uniqueName': 'timeline'}, {'id': 33150, 'name': 'Posts', 'uniqueName': 'posts'}, {'id': 33151, 'name': 'Mentions', 'uniqueName': 'mentions'}]}
+stream:{'id': 18384, 'encryptedId': 'n4_fu8T9ne70nJEsiaVFVYA%3d%3d', 'streamName': 'Salesforce', 'moduleId': 9, 'type': 11, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 18400, 'encryptedId': 'hYJDZkE_bjevWpNC81XnyHQ%3d%3d', 'streamName': 'Studio Sanity - 05/03/25 - 12/47/10', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 18401, 'encryptedId': '4BWTTswniQ0d8nT31_fdPkg%3d%3d', 'streamName': 'Studio Sanity - 05/03/25 - 13/43/26', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 18402, 'encryptedId': 'Izazhe7x1hoWo2HL1HBRWA%3d%3d', 'streamName': 'Studio Sanity - 05/03/25 - 15:56:41', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 18403, 'encryptedId': 'H1qBZUC7HWmCZ9RwaHYFyw%3d%3d', 'streamName': 'Studio Sanity - 05/03/25 - 15:57:36', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+stream:{'id': 18405, 'encryptedId': 'bhAnbsUt73KI4DdPxvfj8w%3d%3d', 'streamName': 'Studio Sanity - 05/03/25 - 18:59:28', 'moduleId': 23, 'type': 7, 'streamProviderId': None, 'statusId': 1, 'subStreams': []}
+number of streams:52
+
+Process finished with exit code 0

@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1327619,
+        "object_id": 3546987534723534,
+        "content": "{}",
+        "message": "Thank you for providing the details.\n\nWe will investigate and get back to you within 24 hours.",
+        "createdTime": "2025-04-07T12:14:25",
+        "streamProviderType": 0,
+        "type": null,
+        "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+                "id": 591427,
+                "streamProviderId": "tal.sa@commbox.io",
+                "streamProviderType": 0,
+                "firstName": "Tal",
+                "lastName": "Salman",
+                "thumbnailUrl": ""
+            }
+        }
+    },
+    {
+        "id": 1327620,
+        "object_id": 3546987534723534,
+        "content": "{}",
+        "message": "I\u2019m trying to cancel my order... \ud83d\ude1e",
+        "createdTime": "2025-04-07T12:14:26",
+        "streamProviderType": 4,
+        "type": null,
+        "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+                "id": 591915,
+                "streamProviderId": "client",
+                "streamProviderType": 4,
+                "firstName": null,
+                "lastName": null,
+                "thumbnailUrl": null
+            }
+        }
+    },
+    {
+        "id": 1327621,
+        "object_id": 3546987534723534,
+        "content": "{}",
+        "message": "I received the wrong item! @#$%^&amp;*",
+        "createdTime": "2025-04-07T12:14:26",
+        "streamProviderType": 4,
+        "type": null,
+        "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+                "id": 591915,
+                "streamProviderId": "client",
+                "streamProviderType": 4,
+                "firstName": null,
+                "lastName": null,
+                "thumbnailUrl": null
+            }
+        }
+    },
+    {
+        "id": 1327622,
+        "object_id": 3546987534723534,
+        "content": "{}",
+        "message": "\u05e9\u05dc\u05d5\u05dd! \u05d0\u05d9\u05da \u05d0\u05e0\u05d9 \u05d9\u05db\u05d5\u05dc \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05da \u05d4\u05d9\u05d5\u05dd?",
+        "createdTime": "2025-04-07T12:14:27",
+        "streamProviderType": 0,
+        "type": null,
+        "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+                "id": 591427,
+                "streamProviderId": "tal.sa@commbox.io",
+                "streamProviderType": 0,
+                "firstName": "Tal",
+                "lastName": "Salman",
+                "thumbnailUrl": ""
+            }
+        }
+    }
+]

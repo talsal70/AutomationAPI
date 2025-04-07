@@ -1,0 +1,416 @@
+[
+  [
+    {
+      "objectId": 3546987534723532,
+      "streamId": 17374,
+      "subStreamId": 35645,
+      "streamProviderId": "7fb00248185a4a209eb48e8a4868f30dautomationqa_wisp@wispp.com",
+      "streamProviderType": 4,
+      "user_identity": 591995,
+      "firstName": null,
+      "lastName": null,
+      "userStreamProviderId": "tal.sa@commbox.io",
+      "userStreamProviderType": 5,
+      "content": "{\"to\":[{\"address\":\"tal.sa@commbox.io\"}],\"subject\":\"Email test22224443\",\"languages\":[{\"Item1\":\"en\",\"Item2\":1327612}],\"attachments\":[{\"name\":\"basketball.png\",\"path\":\"/media/https://ebigh.com/wp-content/uploads/2017/12/Basketball-Stars.jpg\",\"size\":0}],\"sequence_start_time\":\"2025-04-07 12:14:18\",\"ruleLastMessageFromManager\":true}",
+      "message": "first message from the agent create object",
+      "createdTime": "2025-04-07T12:14:16",
+      "updatedTime": "2025-04-07T12:14:18",
+      "closedTime": null,
+      "firstResponseTime": "2025-04-07T12:14:17",
+      "lastResponseTime": "2025-04-07T12:14:19",
+      "statusId": 1,
+      "assignedManagerId": 0,
+      "lastAssignedManagerId": 0,
+      "type": 4,
+      "user": {
+        "id": 5417237,
+        "uniqueId": "999",
+        "phone1": "9729999",
+        "phone2": "",
+        "email": "kuku.kuku@commbox.io",
+        "firstName": "moshe",
+        "lastName": "cohen",
+        "gender": "",
+        "numberIdentities": 1,
+        "locale": "",
+        "birthday": "",
+        "remarks": "some remark for user",
+        "content": "{}"
+      },
+      "isManager": false,
+      "childs": [
+        {
+          "id": 1327611,
+          "object_id": 3546987534723532,
+          "content": "{}",
+          "message": "Thank you for providing the details.\n\nWe will investigate and get back to you within 24 hours.",
+          "createdTime": "2025-04-07T12:14:17",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        },
+        {
+          "id": 1327612,
+          "object_id": 3546987534723532,
+          "content": "{}",
+          "message": "Hey, just following up on my previous message regarding the refund process which was initiated last week. I still haven’t received a confirmation or an update on the timeline. Please respond ASAP.",
+          "createdTime": "2025-04-07T12:14:18",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327613,
+          "object_id": 3546987534723532,
+          "content": "{}",
+          "message": "Hello, can someone assist me?",
+          "createdTime": "2025-04-07T12:14:19",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327614,
+          "object_id": 3546987534723532,
+          "content": "{}",
+          "message": "Thank you for your patience! 💙 We're on it.",
+          "createdTime": "2025-04-07T12:14:19",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        }
+      ],
+      "activityLogs": [],
+      "tagsObjectId": [],
+      "customerParticipants": null
+    }
+  ],
+  [
+    {
+      "objectId": 3546987534723533,
+      "streamId": 17374,
+      "subStreamId": 35645,
+      "streamProviderId": "044f3e490d534735811ede0d3e4321cbautomationqa_wisp@wispp.com",
+      "streamProviderType": 4,
+      "user_identity": 591995,
+      "firstName": null,
+      "lastName": null,
+      "userStreamProviderId": "tal.sa@commbox.io",
+      "userStreamProviderType": 5,
+      "content": "{\"to\":[{\"address\":\"tal.sa@commbox.io\"}],\"subject\":\"Email test22224443\",\"languages\":[{\"Item1\":\"en\",\"Item2\":1327616}],\"attachments\":[{\"name\":\"basketball.png\",\"path\":\"/media/https://ebigh.com/wp-content/uploads/2017/12/Basketball-Stars.jpg\",\"size\":0}],\"sequence_start_time\":\"2025-04-07 12:14:22\",\"ruleLastMessageFromManager\":true}",
+      "message": "first message from the agent create object",
+      "createdTime": "2025-04-07T12:14:20",
+      "updatedTime": "2025-04-07T12:14:22",
+      "closedTime": null,
+      "firstResponseTime": "2025-04-07T12:14:21",
+      "lastResponseTime": "2025-04-07T12:14:23",
+      "statusId": 1,
+      "assignedManagerId": 0,
+      "lastAssignedManagerId": 0,
+      "type": 4,
+      "user": {
+        "id": 5417237,
+        "uniqueId": "999",
+        "phone1": "9729999",
+        "phone2": "",
+        "email": "kuku.kuku@commbox.io",
+        "firstName": "moshe",
+        "lastName": "cohen",
+        "gender": "",
+        "numberIdentities": 1,
+        "locale": "",
+        "birthday": "",
+        "remarks": "some remark for user",
+        "content": "{}"
+      },
+      "isManager": false,
+      "childs": [
+        {
+          "id": 1327615,
+          "object_id": 3546987534723533,
+          "content": "{}",
+          "message": "Thank you for providing the details.\n\nWe will investigate and get back to you within 24 hours.",
+          "createdTime": "2025-04-07T12:14:21",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        },
+        {
+          "id": 1327616,
+          "object_id": 3546987534723533,
+          "content": "{}",
+          "message": "Hey, just following up on my previous message regarding the refund process which was initiated last week. I still haven’t received a confirmation or an update on the timeline. Please respond ASAP.",
+          "createdTime": "2025-04-07T12:14:22",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327617,
+          "object_id": 3546987534723533,
+          "content": "{}",
+          "message": "Hello, can someone assist me?",
+          "createdTime": "2025-04-07T12:14:22",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327618,
+          "object_id": 3546987534723533,
+          "content": "{}",
+          "message": "We’ve escalated the issue to our logistics team. 🚚 Expect an update shortly.",
+          "createdTime": "2025-04-07T12:14:23",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        }
+      ],
+      "activityLogs": [],
+      "tagsObjectId": [],
+      "customerParticipants": null
+    }
+  ],
+  [
+    {
+      "objectId": 3546987534723534,
+      "streamId": 17374,
+      "subStreamId": 35645,
+      "streamProviderId": "a12c6bcee0824100b96d5c8ae30c7cd7automationqa_wisp@wispp.com",
+      "streamProviderType": 4,
+      "user_identity": 591995,
+      "firstName": null,
+      "lastName": null,
+      "userStreamProviderId": "tal.sa@commbox.io",
+      "userStreamProviderType": 5,
+      "content": "{\"to\":[{\"address\":\"tal.sa@commbox.io\"}],\"subject\":\"Email test22224443\",\"languages\":[{\"Item1\":\"en\",\"Item2\":1327620}],\"attachments\":[{\"name\":\"basketball.png\",\"path\":\"/media/https://ebigh.com/wp-content/uploads/2017/12/Basketball-Stars.jpg\",\"size\":0}],\"sequence_start_time\":\"2025-04-07 12:14:25\",\"ruleLastMessageFromManager\":true}",
+      "message": "first message from the agent create object",
+      "createdTime": "2025-04-07T12:14:24",
+      "updatedTime": "2025-04-07T12:14:26",
+      "closedTime": null,
+      "firstResponseTime": "2025-04-07T12:14:25",
+      "lastResponseTime": "2025-04-07T12:14:27",
+      "statusId": 1,
+      "assignedManagerId": 0,
+      "lastAssignedManagerId": 0,
+      "type": 4,
+      "user": {
+        "id": 5417237,
+        "uniqueId": "999",
+        "phone1": "9729999",
+        "phone2": "",
+        "email": "kuku.kuku@commbox.io",
+        "firstName": "moshe",
+        "lastName": "cohen",
+        "gender": "",
+        "numberIdentities": 1,
+        "locale": "",
+        "birthday": "",
+        "remarks": "some remark for user",
+        "content": "{}"
+      },
+      "isManager": false,
+      "childs": [
+        {
+          "id": 1327619,
+          "object_id": 3546987534723534,
+          "content": "{}",
+          "message": "Thank you for providing the details.\n\nWe will investigate and get back to you within 24 hours.",
+          "createdTime": "2025-04-07T12:14:25",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        },
+        {
+          "id": 1327620,
+          "object_id": 3546987534723534,
+          "content": "{}",
+          "message": "I’m trying to cancel my order... 😞",
+          "createdTime": "2025-04-07T12:14:26",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327621,
+          "object_id": 3546987534723534,
+          "content": "{}",
+          "message": "I received the wrong item! @#$%^&amp;*",
+          "createdTime": "2025-04-07T12:14:26",
+          "streamProviderType": 4,
+          "type": null,
+          "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+              "id": 591915,
+              "streamProviderId": "client",
+              "streamProviderType": 4,
+              "firstName": null,
+              "lastName": null,
+              "thumbnailUrl": null
+            }
+          }
+        },
+        {
+          "id": 1327622,
+          "object_id": 3546987534723534,
+          "content": "{}",
+          "message": "שלום! איך אני יכול לעזור לך היום?",
+          "createdTime": "2025-04-07T12:14:27",
+          "streamProviderType": 0,
+          "type": null,
+          "user": {
+            "id": 5416672,
+            "managerId": 5416672,
+            "isManager": true,
+            "encryptedId": "EjaxhC_bfliYcJcBPwFwkhI7_f5bzOtXHzmHx_fhZXExR4%3d",
+            "identity": {
+              "id": 591427,
+              "streamProviderId": "tal.sa@commbox.io",
+              "streamProviderType": 0,
+              "firstName": "Tal",
+              "lastName": "Salman",
+              "thumbnailUrl": ""
+            }
+          }
+        }
+      ],
+      "activityLogs": [],
+      "tagsObjectId": [],
+      "customerParticipants": null
+    }
+  ]
+]
