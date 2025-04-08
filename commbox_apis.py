@@ -140,4 +140,6 @@ class CommboxApis:
         if response.status_code == 200:
             data_result = response.json().get("data")
         print(response.status_code)
+        for tag in data_result:
+            print(tag)
         return data_result
