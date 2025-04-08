@@ -1,0 +1,75 @@
+#Create GitHub Actions secrets named AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY
+# to store the values for your Amazon IAM access key.
+#https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# GitHub recommends pinning actions to a commit SHA.
+# To get a newer version, you will need to update the SHA.
+# You can also reference a tag or branch, but the action may change without warning.
+
+name: Deploy to Amazon ECS
+
+on:
+  workflow_dispatch:
+#    inputs:
+#      environment:
+#        description: 'Choose environment'
+#        required: true
+#        default: 'staging'
+#on:
+#  push:
+#    branches:
+#      - prime
+
+env:
+  AWS_REGION: eu-west-1                         # set this to your preferred AWS region, e.g. us-west-1
+  ECR_REPOSITORY: automationqa                  # set this to your Amazon ECR repository name
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: Linux
+    environment: staging #or production, or development.
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+          role-duration-seconds: 1200
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Inject slug/short variables
+        id: slug
+        uses: gacts/github-slug@v1
+
+      - name: Build & Push image
+        uses: docker/build-push-action@v6
+        id: build-push
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY: automationqa
+          IMAGE_TAG: ${{ steps.slug.outputs.branch-name-slug }}build${{ github.run_id }}
+        with:
+          context: .
+          file: Dockerfile
+          push: true
+          tags: |
+            ${{ env.ECR_REGISTRY }}/${{ env.ECR_REPOSITORY }}:${{ env.IMAGE_TAG }}
+      
+      - name: Output docker image tag
+        id: output-docker-tag
+        run: |
+          echo "docker_image_tag=${{ steps.slug.outputs.branch-name-slug }}build${{ github.run_id }}" 
