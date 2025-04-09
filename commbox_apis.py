@@ -143,3 +143,14 @@ class CommboxApis:
         for tag in data_result:
             print(tag)
         return data_result
+
+
+    def set_obj_tag(self, stream_id, object_id, tag):
+        data_result = None
+        response = requests.post(f"{self.base_url}/streams/{stream_id}/objects/{object_id}/tags/{tag}",headers=self.headers)
+        if response.status_code == 200:
+            data_result = response.json().get("data")
+        print(response.status_code)
+        for tag in data_result:
+            print(tag)
+        return data_result

@@ -30,7 +30,9 @@ if __name__ == "__main__":
 
     #commbox_apis.get_streams()
 
-    commbox_apis.get_tags()
+    #commbox_apis.get_tags()
+
+    commbox_apis.set_obj_tag(stream_id, "3546987534723241",15849)
 
 
 
