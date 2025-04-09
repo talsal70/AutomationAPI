@@ -1,10 +1,10 @@
 [
     {
-        "id": 1327619,
-        "object_id": 3546987534723534,
+        "id": 1328456,
+        "object_id": 3546987534723715,
         "content": "{}",
-        "message": "Thank you for providing the details.\n\nWe will investigate and get back to you within 24 hours.",
-        "createdTime": "2025-04-07T12:14:25",
+        "message": "Thank you for your patience! \ud83d\udc99 We're on it.",
+        "createdTime": "2025-04-08T14:49:40",
         "streamProviderType": 0,
         "type": null,
         "user": {
@@ -23,34 +23,11 @@
         }
     },
     {
-        "id": 1327620,
-        "object_id": 3546987534723534,
-        "content": "{}",
-        "message": "I\u2019m trying to cancel my order... \ud83d\ude1e",
-        "createdTime": "2025-04-07T12:14:26",
-        "streamProviderType": 4,
-        "type": null,
-        "user": {
-            "id": 5417157,
-            "managerId": 0,
-            "isManager": false,
-            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
-            "identity": {
-                "id": 591915,
-                "streamProviderId": "client",
-                "streamProviderType": 4,
-                "firstName": null,
-                "lastName": null,
-                "thumbnailUrl": null
-            }
-        }
-    },
-    {
-        "id": 1327621,
-        "object_id": 3546987534723534,
+        "id": 1328457,
+        "object_id": 3546987534723715,
         "content": "{}",
         "message": "I received the wrong item! @#$%^&amp;*",
-        "createdTime": "2025-04-07T12:14:26",
+        "createdTime": "2025-04-08T14:49:40",
         "streamProviderType": 4,
         "type": null,
         "user": {
@@ -69,11 +46,34 @@
         }
     },
     {
-        "id": 1327622,
-        "object_id": 3546987534723534,
+        "id": 1328458,
+        "object_id": 3546987534723715,
         "content": "{}",
-        "message": "\u05e9\u05dc\u05d5\u05dd! \u05d0\u05d9\u05da \u05d0\u05e0\u05d9 \u05d9\u05db\u05d5\u05dc \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05da \u05d4\u05d9\u05d5\u05dd?",
-        "createdTime": "2025-04-07T12:14:27",
+        "message": "\u05de\u05d4 \u05e7\u05d5\u05e8\u05d4 \u05e2\u05dd \u05d4\u05d4\u05d6\u05de\u05e0\u05d4 \u05e9\u05dc\u05d9?",
+        "createdTime": "2025-04-08T14:49:41",
+        "streamProviderType": 4,
+        "type": null,
+        "user": {
+            "id": 5417157,
+            "managerId": 0,
+            "isManager": false,
+            "encryptedId": "xc75djQhhzk0X9g7SQMTiKwcKe3d3x1K5AS6GF4CSQI%3d",
+            "identity": {
+                "id": 591915,
+                "streamProviderId": "client",
+                "streamProviderType": 4,
+                "firstName": null,
+                "lastName": null,
+                "thumbnailUrl": null
+            }
+        }
+    },
+    {
+        "id": 1328459,
+        "object_id": 3546987534723715,
+        "content": "{}",
+        "message": "We apologize for the delay \u2014 it seems there was a technical issue on our side.",
+        "createdTime": "2025-04-08T14:49:41",
         "streamProviderType": 0,
         "type": null,
         "user": {

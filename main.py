@@ -40,7 +40,7 @@ def debug_exist_conversation(o_id):
 def create_new_conversation_test():
     #object_id = None
     object_ids = []
-    for i in range(3):
+    for i in range(10000):
         # create the conversation object
         response_code, object_id  = create_conversation()
         object_ids.append(object_id)
